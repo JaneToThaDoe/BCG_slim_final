@@ -133,4 +133,4 @@ os.remove('BASE_edited.png')
 
 #save image#
 img1.show()
-img1.save('BASE_finished.png')
+img1.save('BCG.png')
