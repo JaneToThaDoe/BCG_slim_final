@@ -5,7 +5,7 @@ from PIL import ImageDraw #ImageDraw provides 2d graphics which can be created a
 from PIL import Image #same as ImageDraw, working with images
 #-----------------------welcome user and instructions--------------
 print("Hello !")
-print("welcome to BCG the Bussinies card generator")
+print("welcome to BCG the Bussines card generator")
 print(" ")
 print(" ") #generating empty rows
 print(" ")
@@ -13,7 +13,7 @@ print("please chose your color like this : red, orange, yellow, green, blue, vio
 print(" ")
 print(" ")
 print(" ")
-#-----------------------let user chose colors-------------------------
+#-----------------------let user chose colors------------------------
 #define inputs and give order
 tcolor = input('Enter text color:')
 bgcolor = input('Enter background color:')
